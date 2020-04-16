@@ -1,0 +1,12 @@
+0,CombatZoneResize,103,251,538,391,TLResume,,
+0,HeartTeleport,320,376,,,,,
+0,HeartMode,1,,,,,,
+0,TLPause,,,,,,,
+0.5,BoneVRepeat,78,366,20,0,140,50,70
+0,BoneVRepeat,563,250,100,2,140,50,90
+3,GasterBlaster,1,640,336,600,336,180,0.333,0.26666
+3,GasterBlaster,1,640,336,600,336,180,0.333,0.26666
+3,GasterBlaster,1,640,336,600,336,180,0.333,0.26666
+3,GasterBlaster,1,640,336,600,336,180,0.333,0.26666
+3,GasterBlaster,1,640,336,600,336,180,0.333,0.26666
+3.2,EndAttack,,,,,,,
